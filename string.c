@@ -5,6 +5,6 @@ void main()
   char string[10];
   scanf("%s",string);
   printf("string :%s",string);
-  printf("\nasdf");
+  printf("\n hello i am senthil create the string programing line ..,,;");
   return 0;
 }
